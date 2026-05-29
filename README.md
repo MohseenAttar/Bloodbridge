@@ -77,8 +77,3 @@ lifelink/
 ## Developed By
 
 **Mohseen Attar**
-
-```
-
-```
-````
